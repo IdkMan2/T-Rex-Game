@@ -1,0 +1,11 @@
+C:\CodeCloud\VisualStudio\T-Rex Game\bin\Debug\T-Rex Game.exe.config
+C:\CodeCloud\VisualStudio\T-Rex Game\bin\Debug\T-Rex Game.exe
+C:\CodeCloud\VisualStudio\T-Rex Game\bin\Debug\T-Rex Game.pdb
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T-Rex Game.csprojAssemblyReference.cache
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T_Rex_Game.MainForm.resources
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T_Rex_Game.Properties.Resources.resources
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T-Rex Game.csproj.GenerateResource.cache
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T-Rex Game.exe
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T-Rex Game.pdb
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T_Rex_Game.GameForm.resources
+C:\CodeCloud\VisualStudio\T-Rex Game\obj\Debug\T_Rex_Game.AboutGame.resources
